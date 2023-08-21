@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+  },
+  "include": ["src/**/*", "custom.d.ts"],
+  "exclude": ["node_modules", "build", "storybook-static", "src/**/*.stories.tsx", "src/**/*.test.tsx", "src/**/__tests__/**","src/**/__mocks__/**", "src/tests"]
+}
